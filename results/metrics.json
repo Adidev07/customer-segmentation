@@ -1,0 +1,21 @@
+{
+  "project": "Customer Segmentation with K-Means++",
+  "selected_k": 3,
+  "validation_silhouette": 0.8090149858225745,
+  "external_ari": 1.0,
+  "profiles": [
+    [
+      -4.0530425384380955,
+      -0.0044831536443812325
+    ],
+    [
+      3.995796443521654,
+      -0.9399080048534569
+    ],
+    [
+      -0.022507751095259362,
+      3.9348943501386042
+    ]
+  ],
+  "caveat": "The 200 held-out rows select k, so silhouette is validation performance, not an unbiased final test."
+}

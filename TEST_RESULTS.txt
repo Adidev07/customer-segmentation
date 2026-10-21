@@ -1,0 +1,14 @@
+{
+  "project": "<script>bad()</script>",
+  "source": "<img src=x onerror=bad()>"
+}
+test_constant_input (test_app.DomainTests.test_constant_input) ... ok
+test_permutation_invariant_ari (test_app.DomainTests.test_permutation_invariant_ari) ... ok
+test_two_groups (test_app.DomainTests.test_two_groups) ... ok
+test_html_escapes_untrusted_content (test_reporting.ReportingTests.test_html_escapes_untrusted_content) ... ok
+test_zero_positive_metrics (test_reporting.ReportingTests.test_zero_positive_metrics) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.114s
+
+OK
